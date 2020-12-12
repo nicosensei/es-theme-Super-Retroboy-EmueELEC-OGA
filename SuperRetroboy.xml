@@ -187,4 +187,35 @@ version         2.2
       </datetime>
    </view>
 
+   <view name="menu">
+
+		<menuText name="menufooter">
+			<fontSize>.025</fontSize>
+			<color>ffffffff</color>
+		</menuText>
+
+		<menuText name="menutext">
+			<fontSize>.042</fontSize>
+			<color>ffffffff</color>
+			<separatorColor>ffffffff</separatorColor>
+			<selectorColor>ffffffff</selectorColor>
+			<selectedColor>333333FF</selectedColor>
+		</menuText>
+
+		<menuTextSmall name="menutextsmall">
+			<fontSize>.035</fontSize>
+			<color>ffffffff</color>
+		</menuTextSmall>
+
+		<menuText name="menutitle">
+			<fontSize>.06</fontSize>
+			<color>ffffffff</color>
+		</menuText>
+
+		<menuBackground name="menubg">
+			<color>222222ee</color>
+		</menuBackground>
+
+	</view>
+
 </theme>
